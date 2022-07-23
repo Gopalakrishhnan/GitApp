@@ -7,7 +7,7 @@ namespace GitApp
         static void Main(string[] args)
         {
             int a = 1;
-            int e = 2;
+            int e = 22;
             int c = a + e;
             Console.WriteLine(c);
         }
