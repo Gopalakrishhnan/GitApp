@@ -6,7 +6,10 @@ namespace GitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 1;
+            int e = 2;
+            int c = i + e;
+            Console.WriteLine(c);
         }
     }
 }
