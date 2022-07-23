@@ -6,7 +6,7 @@ namespace GitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Gopal!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
