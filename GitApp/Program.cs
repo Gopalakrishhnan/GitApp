@@ -8,7 +8,7 @@ namespace GitApp
         {
             int a = 1;
             int e = 2;
-            int c = i + e;
+            int c = a + e;
             Console.WriteLine(c);
         }
     }
